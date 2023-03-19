@@ -48,7 +48,6 @@ housing
 		basic
 			cheap cost
 			basic meals
-				-1 on studying
 			basic bed
 			roommates
 				3 other people have access to your space
@@ -62,10 +61,27 @@ housing
 				one person has access to your space
 		great
 			expensive
-			great bed
-				recover one level of exhaustion
+			great meals
 				+1 on something
+			great bed
+				recover one extra level of exhaustion
+				+1 on something
+			no roommate
 		exceptional
+			wildly expensive
+			must apply to get it
+			exceptional meals
+				lesser heroes feast for 1
+					temporary hit points
+					cures hangovers
+					advantage on one ability/skill check in the next hour
+			exceptional bed
+				recover all levels of exhaustion
+			extra rooms
+				private bathroom
+				study
+				sitting room
+
 what is a semester
 two semesters equals a level
 	spring and fall
@@ -84,16 +100,19 @@ tutoring
 	advantages
 maintenance staff
 	house cleaning
-	food
+	food services
 	grounds keeping
+	maintenance
 health services
-	sports!
-	social clubs
-		getting in
-		activities
-		advantages
-		responsibilities
-	parties
+sports!
+	fütbal
+	boules
+social clubs
+	getting in
+	activities
+	advantages
+	responsibilities
+parties
 cheating
 getting flunked/expelled
 faculty
@@ -108,7 +127,11 @@ libraries
 	necromancy archives
 	the librarians
 necromancy
+	necromancy is not taught at University officially but if you are diligent, clever, and can get into restricted sections of various libraries you can learn it. The practice of necromancy is strictly regulated and is grounds for immediate expulsion if done without concent of the senior faculty.  This is all stemming from an incident back when necromancy was taught that involved a zombie hoard and many student deaths
 student jobs
+	research assistant
+	test subject
+	library aide
 full time vrs part time
 credit hours
 skipping classes/homework/exams
@@ -116,8 +139,7 @@ grades
 exams
 	different areas of study
 	difficulties
-	different checks
-attendance 
+	different skill checks
 the campus
 outside of the campus
 morning noon and night classes

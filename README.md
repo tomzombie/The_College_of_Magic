@@ -1,1 +1,1 @@
-# The_College_of_Magic
+# These are notes on a 5e D&D Campaign for a school of magic based off of my experiences in D&D and college
